@@ -47,4 +47,4 @@ To understand how password complexity affects security and learn to create stron
 Password complexity directly impacts how secure your account is.  
 A strong password like 'Pr@jakta2025! & P@55_wD!#xYz_93' scored 100% on PasswordMeter — proving that length, randomness, and symbol variety make passwords significantly harder to crack.
 
----
+
